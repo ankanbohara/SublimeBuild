@@ -1,0 +1,5 @@
+{
+    "shell_cmd": "/Users/ankan/AI/bin/python $file_name<inputf.in>outputf.in",
+    "selector": "source.python",
+    "working_dir": "${file_path}"
+}
